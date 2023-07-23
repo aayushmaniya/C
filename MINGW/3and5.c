@@ -14,6 +14,5 @@ else
 {
 printf("\nA is Not divisible by 5");
 }
-
 return 0;
 }
