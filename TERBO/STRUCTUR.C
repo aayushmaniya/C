@@ -7,6 +7,7 @@ struct student
   int m,s,e,t;
   float per;
  };
+ 
 int main()
  {
   struct student a[5];
