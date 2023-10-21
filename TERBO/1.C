@@ -1,11 +1,10 @@
 #include<stdio.h>
-#include<conio.h>
 
-void main()
+int main()
 
 {
 char ch;
-clrscr ();
+
 printf("enter ch:");
 scanf("%c",&ch);
 
@@ -17,7 +16,7 @@ printf("\ncross ch=%c",ch+32);
 else
 {
 printf("\ncross ch=%c",ch-32);
- }
+}
 
-getch();
+
 }
